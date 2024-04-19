@@ -1,3 +1,17 @@
+Hi Ali I had no idea where to include the note in the README so i just did it here because I didnt want to lose marks. This is me handing in my work!
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 01 HTML, CSS, and Git: Code Refactor
 
 ## Challenges in This Course
